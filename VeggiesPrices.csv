@@ -1,0 +1,331 @@
+S.No,Item Name,price
+1,Kashini greens,NULL
+2,Pineapple juice,NULL
+3,Thiland Juice,NULL
+4,Thiland Jelly,NULL
+5,Orange juice,NULL
+6,Chikkadikai cleaned,NULL
+7,Grapesh Tash ganesh,NULL
+8,Times Rose berry,NULL
+9,Washington gala apple,NULL
+10,Chilles small cleaned (C.B.P),NULL
+14,Apple Chaina Delicious,NULL
+15,Rumenia Mango,NULL
+16,Mosambi polo,NULL
+17,S.mellon namdhari (Red),NULL
+18,S.mellon Local (Luck),NULL
+19,Bore fruit,NULL
+20,Butter fruit,NULL
+21,Anjura/Fig,NULL
+22,Peas seeds,NULL
+23,Bread fruit,NULL
+24,Apple Chilli,NULL
+25,Indian red globe,NULL
+26,Washington red apple,NULL
+27,Tamarind Paste 150 gm,NULL
+28,Rice Bran 5 lt,NULL
+29,Sungold oil 5 lt,NULL
+30,Ground nut oil 5 lt,NULL
+31,Safal deep 500 ml,NULL
+32,Tamarind Paste 450 gm,NULL
+33,Sun safal Tin 15 lt,NULL
+34,Sungold oil 5 lt packet,NULL
+35,Pepper,NULL
+36,Stevia powder,NULL
+37,Coconut oil 500 ml,NULL
+38,Jam 1 kg,NULL
+39,Jam 1/2 kg,NULL
+40,Jam 200 gm,NULL
+41,Jam 100 gm,NULL
+42,Fanda,NULL
+43,Chocolates Drink box,NULL
+44,Kakadi,NULL
+45,Corriander Leave,NULL
+46,Curry leave,NULL
+47,Dhantu greens,NULL
+48,Ginger ooty,NULL
+49,Pomegranate,NULL
+50,Pomegranate Bhagav,NULL
+51,Pomegranate A.raktha,NULL
+52,Pomegranate Ganesh,NULL
+53,Papaya nati,NULL
+54,Papaya Taiwan,NULL
+55,Papaya Red lady,NULL
+56,Papaya sola,NULL
+57,Pineapple,NULL
+58,Plum Ooty,NULL
+59,Plum Australia,NULL
+60,Peaches,NULL
+61,Pomello/Chakotha,NULL
+62,Rose apple,NULL
+63,Rampal,NULL
+64,Tamarind sweet 500gm,NULL
+65,Watermellon,NULL
+66,Watermellon kiran,NULL
+67,S.mellon namdhari,NULL
+68,Mosambi,NULL
+69,Sweet corn,NULL
+70,Sweet corn cleaned,NULL
+71,Sweet corn seeds spok,NULL
+72,Batani kalu,NULL
+73,BaleDindu (Banana stem),NULL
+74,Basale Greens,NULL
+75,Letteus Greens,NULL
+76,Onion flowers,NULL
+77,Chain Berry,NULL
+78,Y.Bananan T.N.,NULL
+79,Maize,NULL
+80,Byladha Hannu,NULL
+81,Net rich 5 lt oil,NULL
+82,Mineral water 1 lt,NULL
+83,Chikkadikai Round,NULL
+84,Indian kinora apple,NULL
+85,South Africa Gala apple,NULL
+86,Selari,NULL
+87,Leeks,NULL
+88,Parsley,NULL
+89,Litchi Juice,NULL
+90,Apple juice,NULL
+91,G. nut oil Rice 1 lt,NULL
+92,G. nut oil safal deep1 lt,NULL
+93,G. nut Golden oil 1 lt,NULL
+94,G. nut sungold 1 lt,NULL
+95,Rice Bran 15 lt Tin,NULL
+96,Pickles,NULL
+97,Lime Pickles,NULL
+98,mango Pickles,NULL
+99,Pickles mixed veg,NULL
+100,Avarebele (F. Beans spok),120
+101,Avare seed (FB seeds),100
+102,Brucoli,120
+103,Mushroom Oyster,65
+104,Onion medium,60
+105,Onion Big,80
+106,Jack fruit,65
+107,Indian Black globe Grapes,50
+108,Papaya red indian,45
+109,Mango,120
+110,Mango Badami,130
+111,Mango Alphans,140
+112,Onion small(Economy),NULL
+113,Mango Raspuri,NULL
+114,Onion samber,NULL
+115,Peas local,NULL
+116,Peas Delhi,NULL
+117,Berry fruit Ooty,NULL
+118,Berry Soft,NULL
+119,Berry Delhi,NULL
+120,Ber fruit/Bore fruit,NULL
+121,Cherry fruit,120
+122,Cherry kashmir,250
+123,Cashew nut,800
+124,Dates,420
+125,Dry dates,550
+126,Dates seedless,600
+127,Dry apricot,950
+128,Badami,560
+129,Dry fruit mixed,561
+130,Jambo fruit(Nerale),230
+131,Bottle Gourd,250
+132,Chow-Chow,230
+133,Cucumber,150
+134,Cucumber Nati,120
+135,Cucumber Israle,130
+136,Cucumber Ooty,140
+137,Mangalore cucumber,120
+138,Cluster Bean Local,230
+139,Capsicum,40
+140,Mango Sendura,70
+141,Mango Bygan palli,80
+142,Mango malagova,90
+143,Mango mallika,100
+144,Mango thotapuri,110
+145,Mango kalapadu,120
+146,Mango Neelam,130
+147,Mango Dasheri,140
+148,Mango Langada,150
+149,Mango Kesar,160
+150,Mango Amarpalli,170
+151,Mango rathnagiri(red),180
+152,Mango Alphans box,190
+153,Mango sakkaregutti,200
+154,Orange,80
+155,Orange Nagpura,90
+156,Orange Ooty,100
+157,Orange Australia,120
+158,Tomoto,60
+159,Thogari kai,60
+160,Mango Raw Amblet,120
+161,Mango Raw,160
+162,Capsicum 1,80
+163,Capsicum Red/Yellow,90
+164,Chillies Green,40
+165,Chillies Bajji,50
+166,Chillies Cleaned,60
+167,Chillies small (C.B.P),80
+168,Carrot ooty,90
+169,Carrot Delhi,60
+170,Carrot Nati,70
+171,Cowpea Local,90
+172,Cowpea Long,60
+173,Coconut (B),60
+174,Coconut (M),50
+175,Coconut (S),40
+176,Coconut (OS),30
+177,Cabbage,27
+178,Cabbage Red,60
+179,Cabbage chaina,60
+180,Cauliflower(B),70
+181,Copra,45
+182,Honney 1/2,55
+183,Honney 1 Kg,60
+184,Honney 200 gm,80
+185,Honney 100 gm,45
+186,Gulkan 1 kg,60
+187,Gulkan 1/2 kg,40
+188,Gulkan 1/4 kg,30
+189,Cluster Beans Bunches,80
+190,Cucumber white,90
+191,Kashini (Ganike) Greens,80
+192,Sweet corn seeds,90
+193,Bale hoovu(B.flower),100
+194,Jukani,130
+195,Banana cooking R.Banana,80
+196,Avarekai (Field Beans ),75
+197,Grapes T.S.,60
+198,Herali kai,60
+199,Ladys finger,70
+200,Little gourd,80
+201,Lime Local,75
+202,Grapes Red globe,85
+203,Grapes Dry 250gm,65
+204,Grapes Dry 100gm,55
+205,Lime Bijapur,56
+206,Mushroom Button,150
+207,Mushroom Milky,50
+208,Cauliflower(M),60
+209,Cauliflower(S),40
+210,Cauliflower per Kg,90
+211,Cherry Tomoto,60
+212,Drumstik,80
+213,Double Beans seeds,60
+214,Double Beans,90
+215,Ground nut Local,50
+216,Ground nut Hybrid,80
+217,Ginger,60
+218,Ginger New,80
+219,Garlic,50
+220,Garlic cleaned,70
+221,Chikadi kai,90
+222,knol-khol,50
+223,Arive greens,60
+224,Eggs,180
+225,Chakota greens,63
+226,Onion pack,30
+227,Potato pack,25
+228,Chilakarive green,60
+229,Chillies Bajji yagani,50
+230,Baby corn,80
+231,Baby corn cleaned,120
+232,Berry Southafrica,150
+233,Berry Golden,150
+234,Berry ball,50
+235,Berry Green,40
+236,Apple Premium,220
+237,Malenian apple,210
+238,Nagapur Orange Economy,60
+239,South Af.red berry,60
+240,Jumbu juice,50
+241,Brahmi amla juice,80
+242,Pomegranate Juice,80
+243,N.Juice 200 ml,100
+244,Amla,70
+245,Beans,60
+246,Beans Nati,120
+247,Beans Ring,130
+248,Beans Fruit,150
+249,Beans cleaned,65
+250,Brinjal long,50
+251,Brinjal (W),55
+252,Brinjal (R),55
+253,Brinjal Bottle,60
+254,Brinjal Mlore,60
+255,Beet Root,30
+256,Yam/S.Root,20
+257,Bitter Gourd,15
+258,Mint Leaves,30
+259,Menthya Greens,30
+260,Palak Greens,120
+261,Apple Delicious,110
+262,Apple Simla,130
+263,Apple Economy,120
+264,Apple Washington,160
+265,Apple Australia,200
+266,Apple Newzeland,230
+267,Apple Fuji chaina,190
+268,Apple hazarath palli,150
+269,Apple Green smith,160
+270,Apple Golden delicious,180
+271,Banana pachabale,60
+272,Banana Yellaki,60
+273,Banana chandra,60
+274,Banana Nendra,65
+275,Banana karpura,55
+276,Banana Rasabale,55
+277,Chicco(Sapota) rapined,65
+278,Custerd Apple,60
+279,Chicco(Sapota),50
+280,Guava,40
+281,Guava Allahabad(Red),45
+282,Grapes Blore blue,50
+283,Orange malt,60
+284,Orange South Africa,70
+285,Peas Dharwad,70
+286,Peas Ooty,51
+287,Pumpkin Ash,60
+288,Pumpkin Red,50
+289,Pumpkin Japan,20
+290,Potato(M),25
+291,Potato(B),35
+292,Potato(S),35
+293,Potato Baby,40
+294,Sweet Potato(Genasu),55
+295,Raddish,40
+296,Raddish Red,50
+297,Sponge Gourd,32
+298,Snake Gourd,30
+299,Snake Gourd(S),30
+300,Sham gadde,30
+301,Spring Onion,40
+302,Spring Onion(Cleaned),50
+303,Parvala,63
+304,Greens Sabbakki,95
+305,Molake kalu,85
+306,Hesaru kalu,75
+307,GrapesAnabi shahi,120
+308,Grapes Dilkush,60
+309,Grapes Sharad,65
+310,Grapes Rose,120
+311,Grapes Sonika,75
+312,Grapes Flame,95
+313,Grapes Krishna sharad,120
+314,Grapes Crimson,160
+315,Komark fruit,60
+316,Kiwi fruit,140
+317,Litchi Local,120
+318,Litchi Taiwan/chaina,90
+319,Straw Berry,80
+320,Tender Coconut,50
+321,Tender Coconut(M),60
+322,Tamrind Chatisghar,70
+323,Tamarind seedless,50
+324,Thinda,67
+325,Dates Arebian,32
+326,Pista,950
+327,Tender Coconut(S),60
+328,Tender Coco packed,80
+329,Fruit Juice Tailand,260
+330,G.oil Net rich 500 ml,510
+331,Ground nut oil 1 lt,520
+332,G.nut oil Premium1 lt,530
+333,G.nut oil Rice Bron 1 lt,550
